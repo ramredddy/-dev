@@ -5,3 +5,7 @@ hello
 welocme
 devops
 engineer
+hello 
+welcome
+to the linux
+hejjjdjsj

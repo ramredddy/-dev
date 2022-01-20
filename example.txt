@@ -8,4 +8,8 @@ engineer
 hello 
 welcome
 to the linux
+<<<<<<< HEAD
 he 1 2 3 4 5
+=======
+hejjjdjsj
+>>>>>>> 765a849f431be5de1cfb46ad506017f15f9e0fce
